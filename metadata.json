@@ -1,0 +1,6 @@
+{
+  "name": "Dar Al Dawa Medical Center",
+  "description": "Official 7-page website for Dar Al Dawa Medical Center in Mustafa Town, Lahore, Pakistan with 24/7 emergency services, specialist doctors, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
